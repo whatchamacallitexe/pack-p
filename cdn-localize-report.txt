@@ -82,4 +82,4 @@ FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a5648
 
 FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@e1cccd3e42fe3830397746568f319dca4f74fe8c/dont_escape_2.swf: curl: (22) The requested URL returned error: 404
 
-RUFFLE FAIL module 'urllib' has no attribute 'request'
+RUFFLE OK 1 wrappers
